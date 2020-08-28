@@ -13,7 +13,7 @@ With 'Blood', 'Greeks', and 'Wisdom' the A.I. took fewer liberties and sought to
 
 These differences are readily apparent when looking at the texts. 'Blood' is somewhat more gramatically and linguistically  coherent and cohesive when compared to 'The Plague' but it lacks the same prophetic flare. 
 
-One might notice that all these terms appear somewhere in the King James Bible. Caesar appears in the famous 'Give unto Caesar' quote and the Greeks (and even some Olympian Gods) are also mentioned many times. This A.I. has only ever read the Bible, nothing else. It was fed these terms to write because it already has some conceptual understanding of what they mean. By comparison it would have no concept of who Abraham Lincoln is. Of course it only knows of Casar what it read about in the Bible but it is more likely to associate Caesar with terms like 'Romans' (the book of the Bible he's mentioned in) and 'give unto'.
+One might notice that all these terms appear somewhere in the King James Bible. Caesar appears in the famous 'Give unto Caesar' quote and the Greeks (and even some Olympian Gods) are also mentioned many times. This A.I. has only ever read the Bible, nothing else. It was fed these terms to write because it already has some conceptual understanding of what they mean. By comparison it would have no concept of who Abraham Lincoln is. Of course it only knows of Caesar what it read about in the Bible but it is more likely to associate Caesar with terms like 'Romans' (the book of the Bible he's mentioned in) and 'give unto'.
 
 
 ### About the A.I. (a non-technical description)
