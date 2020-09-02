@@ -1,7 +1,7 @@
 # AI_Jesus
 AI Clone of Jesus. Twitter Bot coming soon follow [@ai_Jesus_bot](https://twitter.com/ai_Jesus_bot)
 
-![alt text](https://github.com/GeorgeDavila/AI_Jesus/tree/master/Deepfake_Jesus/c2_Jesus.gif "Figure 3")
+![alt text](https://github.com/GeorgeDavila/AI_Jesus/blob/master/Deepfake_Jesus/c2_jesus.gif?raw=true "Figure 1")
 
 Press inquiries or other questions can be sent to gaddog94@gmail.com
 
