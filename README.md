@@ -31,6 +31,6 @@ Will publish the code for the bot here once complete.
 ## Deepfake Jesus
 See my blog on Deepfake Jesus here: https://medium.com/@GDurendal/deepfake-jesus-83ec11164460
 
-Or see the file /Deepfake_Jesus for some outputs 
+Or see the folder /Deepfake_Jesus for some outputs 
 
 See the audio-synced output here: https://www.youtube.com/watch?v=nZnrEwfXisY&feature=youtu.be 
